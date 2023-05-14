@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import SubManagement from './SubManagement';
+import logo from './image/theme.jpeg'
+import './App.css';
 
 function App() {
   const [subscriptions, setSubscriptions] = useState([
@@ -42,6 +44,7 @@ function App() {
 
   return (
     <div>
+    <img src={logo} className="App-logo" alt="logo" />
       <SubManagement
         subscriptions={subscriptions}
         onSubmit={handleAddSubscription}
