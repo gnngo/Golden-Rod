@@ -1,70 +1,9 @@
-# Getting Started with Create React App
+#About the project: 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In line with the theme of this year’s Hack-a-thon ‘planting the seed’, we have decided to take on the financial hack challenge with Capital One and created a website called ‘The Goldenrod’ to help users manage their subscriptions. The Goldenrod is a type of wildflower native to North America, symbolic of good luck and financial success. We derived our inspiration from our own experiences of having trouble keeping track of our subscriptions and the associated costs, which accumulate by the month! This website, albeit in its early stages, greatly simplifies this process and transparently displays the list of subscriptions for us to see. 
 
-## Available Scripts
+During the development of this project, we faced many challenges, the greatest being the departure of three teammates due to personal reasons. Instead of succumbing to the pressure of an approaching deadline, we proactively filled in the gaps and redistributed the workload to ensure that we did not lose momentum. As neither of us have set up a database system before, we also explored entirely new territory using applications such as Postman and Studio 3T. Finally, we successfully deployed our project on Microsoft Azure cloud. 
 
-In the project directory, you can run:
+For the front-end, we used the React framework to build the user interface, implementing interactive components such as the ability to add, delete, and edit entries. For the database aspect, we used MongoDB to store and manage the information. We also utilized the runtime environment Node.js, and the web-application framework Express.js to build a server that can handle the HTTP requests.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Throughout this experience, we learned about the holistic process of building a website, especially the front-end and database aspects. It was a significantly steep learning curve for the both of us, as this was not only our first hack-a-thon but also our first time attempting to build a full-stack application. We have gained invaluable skills such as teamwork, collaboration, patience, and resilience.  
